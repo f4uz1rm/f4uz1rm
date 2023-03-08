@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @f4uz1rm
+Selamat datang di repository Fauzi,
+
+ada berbagai repository tersedia di sini, gunakan dengan bijak yaaa
 
 <!---
 f4uz1rm/f4uz1rm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

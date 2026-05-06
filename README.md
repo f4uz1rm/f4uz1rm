@@ -1,85 +1,65 @@
 <div align="center">
 
-<img src="https://i.imgur.com/your-avatar.png" width="180" style="border-radius:50%" />
+# Hi, I’m <span style="color: #FF8FB1;">Fauzi Rizky Mauladani</span> 👋
 
-# Hi, I'm Fauzi Rizky Mauladani 👋
+<p align="center">
+  <kbd>Fullstack Developer from Indonesia</kbd>
+</p>
 
-### 💻 Passionate Developer from Indonesia 🇮🇩
+| 💻 Web Development | 💡 Problem Solver | ⚙️ Automation Lover | 📖 Always Learning | ℹ️ Clean & Efficient Code |
+| :---: | :---: | :---: | :---: | :---: |
 
-<br>
-
-<img src="https://img.shields.io/badge/Web%20Developer-ffb6c1?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-<img src="https://img.shields.io/badge/Problem%20Solver-ffd580?style=for-the-badge&logo=codersrank&logoColor=white"/>
-<img src="https://img.shields.io/badge/Automation%20Lover-c3b1e1?style=for-the-badge&logo=zapier&logoColor=white"/>
-<img src="https://img.shields.io/badge/Always%20Learning-a0e7e5?style=for-the-badge&logo=readme&logoColor=black"/>
-<img src="https://img.shields.io/badge/Clean%20Code-ffdac1?style=for-the-badge&logo=codefactor&logoColor=black"/>
+---
 
 </div>
 
----
-
-## 🎯 Current Focus
-- ✅ Building practical mini projects  
-- 🤖 Exploring AI & automation  
-- 📈 Improve backend & logic skills  
-- 🛠️ Creating useful tools  
-- 🌍 Solving real-world problems  
-
----
-
-## 🛠️ My Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=js,php,html,css,mysql,github,vscode" />
-
-</div>
-
----
-
-## 💬 Quote
-
-> *"I believe technology should feel warm, simple, and human."*
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=f4uz1rm&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=f4uz1rm&theme=tokyonight&hide_border=true" height="150"/>
-
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=f4uz1rm&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-## 📫 Contact Me
-
-- 📍 Indonesia  
-- 📧 fauzirizkymauladani@gmail.com  
-- 🌐 https://github.com/f4uz1rm  
-
----
-
-## 💡 Daily Motivation
-
-> Small progress every day leads to big changes 🌱
-
----
+<table align="center" style="border: none;">
+  <tr>
+    <td valign="top" width="70%">
+      <table>
+        <tr>
+          <td>
+            <h4>🎯 Current Focus</h4>
+            <ul>
+              <li>✅ Building practical mini projects</li>
+              <li>✅ Exploring AI & automation</li>
+              <li>✅ Improve backend & logic skills</li>
+              <li>✅ Creating useful tools</li>
+              <li>✅ Solving real-world problems 🌸</li>
+            </ul>
+          </td>
+          <td>
+            <h4>🛠️ My Tech Stack</h4>
+            <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+            <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+            <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+            <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+            <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+            <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+          </td>
+        </tr>
+      </table>
+      <p align="center">
+        <i>" I believe technology should feel warm, simple, and human. "</i> 💖
+      </p>
+      <table width="100%">
+        <tr>
+          <td>
+            <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=f4uz1rm&theme=rosepine&hide_border=true" />
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
 
-✨ **Thanks for stopping by! Let's build something amazing together! 🚀** ✨
+---
+### 💬 Daily Motivation
+> **"Small progress every day leads to big changes"** 🌿
 
+---
+✨ Thanks for stopping by! Let's build something amazing together! 🚀
+---
 </div>
